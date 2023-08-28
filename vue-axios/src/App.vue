@@ -17,6 +17,6 @@ import NavbarComponent from './components/NavbarComponent.vue';
   .main{
     max-width: 730px;
     margin: 0 auto;
-    background: #F6F8FF;
+    background: #141D2F;
   }
 </style>
